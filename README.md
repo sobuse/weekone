@@ -1,1 +1,1 @@
-# weekone
+ https://sobuse.github.io/scorechecker/
